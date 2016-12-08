@@ -1,0 +1,110 @@
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\ExtremeGym_App.dll.config
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\ExtremeGym_App.dll
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\ExtremeGym_App.pdb
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\Antlr3.Runtime.dll
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\EntityFramework.dll
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\EntityFramework.SqlServer.dll
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.dll
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Security.dll
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\Newtonsoft.Json.dll
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\Owin.dll
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\System.Web.Helpers.dll
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\System.Web.Mvc.dll
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\System.Web.Optimization.dll
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\System.Web.Razor.dll
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\System.Web.WebPages.dll
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\WebGrease.dll
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\System.Web.Helpers.xml
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\System.Web.Mvc.xml
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\System.Web.Optimization.xml
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\System.Web.Razor.xml
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\System.Web.WebPages.xml
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\Antlr3.Runtime.pdb
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\Newtonsoft.Json.xml
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\EntityFramework.xml
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\EntityFramework.SqlServer.xml
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.xml
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Security.xml
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\obj\Debug\ExtremeGym_App.dll
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\obj\Debug\ExtremeGym_App.pdb
+C:\Users\Vlady Mer\Documents\Visual Studio 2013\Projects\ExtremeGym_App\ExtremeGym_App\obj\Debug\ExtremeGym_App.csprojResolveAssemblyReference.cache
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\ExtremeGym_App.dll.config
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\ExtremeGym_App.dll
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\ExtremeGym_App.pdb
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\Antlr3.Runtime.dll
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\EntityFramework.dll
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\EntityFramework.SqlServer.dll
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.dll
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Security.dll
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\Newtonsoft.Json.dll
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\Owin.dll
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\System.Web.Helpers.dll
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\System.Web.Mvc.dll
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\System.Web.Optimization.dll
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\System.Web.Razor.dll
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\System.Web.WebPages.dll
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\WebGrease.dll
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\System.Web.Helpers.xml
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\System.Web.Mvc.xml
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\System.Web.Optimization.xml
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\System.Web.Razor.xml
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\System.Web.WebPages.xml
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\Antlr3.Runtime.pdb
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\Newtonsoft.Json.xml
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\EntityFramework.xml
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\EntityFramework.SqlServer.xml
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.xml
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Security.xml
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\obj\Debug\ExtremeGym_App.dll
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\obj\Debug\ExtremeGym_App.pdb
+C:\Users\Vlady Mer\Documents\GitHub\Exam_PlayNGO\ExtremeGym_App\ExtremeGym_App\obj\Debug\ExtremeGym_App.csprojResolveAssemblyReference.cache
